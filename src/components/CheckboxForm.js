@@ -57,6 +57,7 @@ const CheckboxForm = () => {
           <span className="custom-checkbox"></span>
         </label>
         <hr />
+        
         <label className="checkbox-label">
           <span>Page 1</span>
           <input
