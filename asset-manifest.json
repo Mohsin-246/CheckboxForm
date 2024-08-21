@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CheckboxForm/static/css/main.df9c3720.css",
-    "main.js": "/CheckboxForm/static/js/main.ee9be57f.js",
+    "main.js": "/CheckboxForm/static/js/main.ff47a9ab.js",
     "static/js/453.73b8cffe.chunk.js": "/CheckboxForm/static/js/453.73b8cffe.chunk.js",
     "index.html": "/CheckboxForm/index.html",
     "main.df9c3720.css.map": "/CheckboxForm/static/css/main.df9c3720.css.map",
-    "main.ee9be57f.js.map": "/CheckboxForm/static/js/main.ee9be57f.js.map",
+    "main.ff47a9ab.js.map": "/CheckboxForm/static/js/main.ff47a9ab.js.map",
     "453.73b8cffe.chunk.js.map": "/CheckboxForm/static/js/453.73b8cffe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df9c3720.css",
-    "static/js/main.ee9be57f.js"
+    "static/js/main.ff47a9ab.js"
   ]
 }
