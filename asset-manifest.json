@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CheckboxForm/static/css/main.df9c3720.css",
-    "main.js": "/CheckboxForm/static/js/main.ee9be57f.js",
-    "static/js/453.73b8cffe.chunk.js": "/CheckboxForm/static/js/453.73b8cffe.chunk.js",
-    "index.html": "/CheckboxForm/index.html",
-    "main.df9c3720.css.map": "/CheckboxForm/static/css/main.df9c3720.css.map",
-    "main.ee9be57f.js.map": "/CheckboxForm/static/js/main.ee9be57f.js.map",
-    "453.73b8cffe.chunk.js.map": "/CheckboxForm/static/js/453.73b8cffe.chunk.js.map"
+    "main.css": "/static/css/main.df9c3720.css",
+    "main.js": "/static/js/main.8d3557ad.js",
+    "static/js/453.73b8cffe.chunk.js": "/static/js/453.73b8cffe.chunk.js",
+    "index.html": "/index.html",
+    "main.df9c3720.css.map": "/static/css/main.df9c3720.css.map",
+    "main.8d3557ad.js.map": "/static/js/main.8d3557ad.js.map",
+    "453.73b8cffe.chunk.js.map": "/static/js/453.73b8cffe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df9c3720.css",
-    "static/js/main.ee9be57f.js"
+    "static/js/main.8d3557ad.js"
   ]
 }
